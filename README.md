@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Shito Nemumu!
 
-<!--
-**nemumusito/nemumusito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fox Vtuber with a pudding head, made in the fox pudding factory. I love playing and having fun with everyone!
 
-Here are some ideas to get you started:
+## Main Activities
+- 🎮 I primarily stream games like Black Desert and Elden Ring.
+- 🕶️ Occasionally, I also stream VR content and post singing videos.
+- 🎤 I create and upload my own Yukkuri videos as well.
+- 💻 I enjoy playing various games, especially MMOs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my singing and Yukkuri videos too!
+
+## Special Skills
+- 💥 Fluffy Bomb!!
+- 🍮 Pudding Throw!!
+- 🐛 Talking with my tummy Pekkoro-mushi friends!
+- 🎈 Shitocha Balloon~n🎈
+
+## Favorite Foods
+- 🍝 Peperoncino
+- 🍮 Pudding
+- 🍞 Naan
+
+## Bio
+- 🔭 I’m currently creating my personal introduction website.
+- 🌱 I’m currently learning various skills related to Vtubing and video production.
+- 💬 Ask me about my streaming setup or video production techniques!
+
+⚡ Fun fact: I was made in the fox pudding factory!
